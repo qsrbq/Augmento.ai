@@ -22,3 +22,4 @@ Generalized augmentoai.py with rowling means of trends with a 4 hour window. Cal
 
 Plot the curves of percentages for positive, neutral and negative sentiments as well as their rowling means.
 
+![](./ETH.png)
