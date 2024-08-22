@@ -27,6 +27,7 @@ Plot the curves of percentages for positive, neutral and negative sentiments as 
 
 
 P.S.: Work has been done on my own and not related to Augmento.ai other than as the source of data used.
+Contact: accibook01@gmail.com
 
 Website: https://www.augmento.ai/
 API: https://api-dev.augmento.ai/v0.1/documentation#rest-api-general
